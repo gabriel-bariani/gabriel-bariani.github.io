@@ -1,2 +1,2 @@
-# gabriel-bariani.github.io
+# Gabriel Bariani
 Portifólio e Currículo

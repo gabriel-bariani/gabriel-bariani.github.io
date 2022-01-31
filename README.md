@@ -3,12 +3,12 @@
 
 ## Formação Acadêmica
 ### Ensino Superior 
-- **Universidade Estadual de Campinas - UNICAMP** - Licenciatura em Ciências Biológicas (Noturno)
+- **Universidade Estadual de Campinas - UNICAMP** - **Licenciatura em Ciências Biológicas (Noturno)**
   - Início: Fevereiro/2017 - Previsão de término: Dezembro/2022;
    
 ### Ensino Médio e Técnico
-- **Colégio Técnico de Campinas - COTUCA** - Técnico em Mecatrônica
-  - Início em 2014 - Término em 2016;
+- **Colégio Técnico de Campinas - COTUCA** - **Técnico em Mecatrônica**
+  - Início: Fevereiro/2014 - Término: Dezembro/2016;
 
 ## Experiências Profissionais
 

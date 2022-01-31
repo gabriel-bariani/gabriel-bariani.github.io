@@ -18,7 +18,7 @@
 
 [Atividades](/museu)
 
-### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](/cnepm)
+### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](/cnpem)
 - **Duração:** Fevereiro/2020 - Setembro/2020
 - **Cargo:** Aluno em Iniciação Científica
 

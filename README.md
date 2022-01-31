@@ -12,7 +12,7 @@
 
 ## Experiências Profissionais
 
-### [Museu Exploratório de Ciências](/museu)
+### [Museu Exploratório de Ciências da Unicamp](/museu)
 - **Duração:** Agosto/2019 - Agosto/2021
 - **Cargo:** Estagiário de Nível Superior
 

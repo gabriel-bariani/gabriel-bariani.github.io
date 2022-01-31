@@ -16,19 +16,21 @@
 - **Duração:** Agosto/2019 - Agosto/2021
 - **Cargo:** Estagiário de Nível Superior
 
-[Atividades](/museu)
+Para mais informações e descrição das atividades [clique aqui](/museu)
+
 
 ### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](/cnpem)
 - **Duração:** Fevereiro/2020 - Setembro/2020
 - **Cargo:** Aluno em Iniciação Científica
 
-[Atividades](/cnpem)
+Para mais informações e descrição das atividades [clique aqui](/cnpem)
+
 
 ### [Procter & Gamble](/peg)
 - **Duração:** Outubro/2017 - Dezembro/2018
 - **Cargo:** Estagiário de Nível Técnico
 
-[Atividades](/peg)
+Para mais informações e descrição das atividades [clique aqui](/peg)
 
 -----------------------
 

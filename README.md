@@ -12,23 +12,23 @@
 
 ## Experiências Profissionais
 
-### [Museu Exploratório de Ciências](https://www.mc.unicamp.br/)
+### [Museu Exploratório de Ciências](/museu)
 - **Duração:** Agosto/2019 - Agosto/2021
 - **Cargo:** Estagiário de Nível Superior
 
-[Atividades]()
+[Atividades](/museu)
 
-### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](https://lnbr.cnpem.br/)
+### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](/cnepm)
 - **Duração:** Fevereiro/2020 - Setembro/2020
 - **Cargo:** Aluno em Iniciação Científica
 
-[Atividades]()
+[Atividades](/cnpem)
 
-### [Procter & Gamble](https://br.pg.com/)
+### [Procter & Gamble](/peg)
 - **Duração:** Outubro/2017 - Dezembro/2018
 - **Cargo:** Estagiário de Nível Técnico
 
-[Atividades]()
+[Atividades](/peg)
 
 -----------------------
 

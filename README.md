@@ -1,6 +1,8 @@
 # Gabriel Antônio de Oliveira Bariani
 ### Brasileiro, 23 anos. Valinhos - SP.
 
+------------------
+
 ## Formação Acadêmica
 ### Ensino Superior 
 - **Universidade Estadual de Campinas - UNICAMP** - **Licenciatura em Ciências Biológicas (Noturno)**
@@ -9,6 +11,8 @@
 ### Ensino Médio e Técnico
 - **Colégio Técnico de Campinas - COTUCA** - **Técnico em Mecatrônica**
   - Início: Fevereiro/2014 - Término: Dezembro/2016;
+
+--------------------------------
 
 ## Experiências Profissionais
 

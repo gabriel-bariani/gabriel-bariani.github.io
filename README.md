@@ -16,25 +16,38 @@
 
 ## Experiências Profissionais
 
+### [Emergo by UL](/emergo)
+- **Duração:** Julho/2022 - Atualmente
+- **Cargo:** Estagiário de Nível Superior
+
+Para mais informações e descrição das atividades [clique aqui](/emergo)
+
+### [Maple Bear - Canadian School](/maple)
+- **Duração:** Fevereiro/2022 - Junho/2022
+- **Cargo:** Estagiário de Nível Superior
+
+Para mais informações e descrição das atividades [clique aqui](/museu)
+
 ### [Museu Exploratório de Ciências da Unicamp](/museu)
 - **Duração:** Agosto/2019 - Agosto/2021
 - **Cargo:** Estagiário de Nível Superior
 
 Para mais informações e descrição das atividades [clique aqui](/museu)
 
+### [Procter & Gamble](/peg)
+- **Duração:** Outubro/2017 - Dezembro/2018
+- **Cargo:** Estagiário de Nível Técnico
+
+Para mais informações e descrição das atividades [clique aqui](/peg)
+
+-----------------------
+## Outros Projetos e Experiências
 
 ### [Centro Nacional de Pesquisa em Energia e Materiais - LNBR](/cnpem)
 - **Duração:** Fevereiro/2020 - Setembro/2020
 - **Cargo:** Aluno em Iniciação Científica
 
 Para mais informações e descrição das atividades [clique aqui](/cnpem)
-
-
-### [Procter & Gamble](/peg)
-- **Duração:** Outubro/2017 - Dezembro/2018
-- **Cargo:** Estagiário de Nível Técnico
-
-Para mais informações e descrição das atividades [clique aqui](/peg)
 
 -----------------------
 

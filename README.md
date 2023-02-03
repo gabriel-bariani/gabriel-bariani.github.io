@@ -1,12 +1,17 @@
 # Gabriel Antônio de Oliveira Bariani
-### Brasileiro, 23 anos. Valinhos - SP.
+### Brasileiro, 24 anos. Valinhos - SP.
 
 ------------------
 
 ## Formação Acadêmica
-### Ensino Superior 
-- **Universidade Estadual de Campinas - UNICAMP** - **Licenciatura em Ciências Biológicas (Noturno)**
-  - Início: Fevereiro/2017 - Previsão de término: Dezembro/2022;
+### Ensino Superior
+- **Universidade Estadual de Campinas - UNICAMP** - 
+
+    - **Bacharelado em Ciências Biológicas**
+       - Início: Fevereiro/2023 -  Previsão de Término: Dezembro/2023;
+
+    - **Licenciatura em Ciências Biológicas (Noturno)**
+       - Início: Fevereiro/2017 - Término: Dezembro/2022;
    
 ### Ensino Médio e Técnico
 - **Colégio Técnico de Campinas - COTUCA** - **Técnico em Mecatrônica**
